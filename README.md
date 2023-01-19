@@ -3,7 +3,7 @@ Jan 10 - Intro and Linux commands
 
 Jan 11 - SDLC, Agile, JAVA, Web Development
 
-Jan 12 - OOPS, Version Control
+Jan 12 - OOPS Concepts, Version Control
 
 Jan 17 - Version Control, API, Confluence and Sharepoint, and  CI CD, JIRA
 
