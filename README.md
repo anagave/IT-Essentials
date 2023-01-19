@@ -8,3 +8,6 @@ Jan 12 - OOPS, Version Control
 Jan 17 - Version Control, API, Confluence and Sharepoint, and  CI CD, JIRA
 
 Jan 18 - CloudComputing, Testing
+
+Jan 19 - Database, ETL Tools
+
