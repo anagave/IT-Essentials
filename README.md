@@ -11,3 +11,4 @@ Jan 18 - CloudComputing, Testing
 
 Jan 19 - Database, ETL Tools
 
+Jan 20 - SQL Procedures and Trigggers
